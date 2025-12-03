@@ -30,8 +30,6 @@ A comprehensive, professional-grade interactive dashboard for monitoring, analyz
 - [Screenshots](#-screenshots)
 - [Configuration](#-configuration)
 - [Troubleshooting](#-troubleshooting)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
@@ -400,18 +398,26 @@ Risk Categories:
 ## 🖼️ Screenshots
 
 ### Executive Dashboard
-![Executive Dashboard]<img width="1657" height="876" alt="image" src="https://github.com/user-attachments/assets/869be10a-4269-4db6-a1e4-b2765eac47bc" />
+<img width="1657" height="876" alt="image" src="https://github.com/user-attachments/assets/869be10a-4269-4db6-a1e4-b2765eac47bc" />
 <img width="1634" height="873" alt="image" src="https://github.com/user-attachments/assets/db1202e6-7286-42ae-97bb-8338bd647d3b" />
 
-*Real-time KPI metrics and condition analytics*
+### MANHOLE CONDITION & RISK ASSESSMENT
+<img width="1676" height="730" alt="image" src="https://github.com/user-attachments/assets/f0945fb2-e4d9-4aa7-bead-61b8967cd954" />
+<img width="1659" height="887" alt="image" src="https://github.com/user-attachments/assets/218036e8-8e7c-4cb6-a45b-9c244a30c71f" />
+
+### MATERIAL & COVER ANALYSIS
+<img width="1609" height="835" alt="image" src="https://github.com/user-attachments/assets/0d9dd7da-ac20-4867-9678-4d3ea2dd0492" />
+<img width="1634" height="862" alt="image" src="https://github.com/user-attachments/assets/b630464e-8976-4d14-b770-2e6e8c130e99" />
+
+### PIPE NETWORK & CONNECTIONS
+<img width="1721" height="845" alt="image" src="https://github.com/user-attachments/assets/84eb5d62-8139-491d-8161-f362f2c53bda" />
+<img width="1658" height="889" alt="image" src="https://github.com/user-attachments/assets/8558f1bf-a38e-4f61-8595-67d93f1c3a70" />
 
 ### Geospatial View
-![Map View](screenshots/map_view.png)
-*Interactive network visualization with layer controls*
-
-### Risk Assessment
-![Risk Analysis](screenshots/risk_analysis.png)
-*Comprehensive risk scoring and categorization*
+<img width="1450" height="834" alt="image" src="https://github.com/user-attachments/assets/fc276962-882f-489b-aafb-d4cfaaafc13d" />
+<img width="1526" height="893" alt="image" src="https://github.com/user-attachments/assets/c0a5ac52-45cb-4c13-8629-4a94840dc9fe" />
+<img width="1629" height="786" alt="image" src="https://github.com/user-attachments/assets/577f7c83-b5b5-45c9-bf2c-2b5a3cdccfd5" />
+<img width="1620" height="575" alt="image" src="https://github.com/user-attachments/assets/bcb1ad39-0e95-481f-b98b-9c1c4c8cf66a" />
 
 ---
 
@@ -505,3 +511,4 @@ pip install -r requirements.txt
 ```
 
 ---
+
