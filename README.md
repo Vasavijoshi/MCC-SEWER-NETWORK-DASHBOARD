@@ -400,7 +400,9 @@ Risk Categories:
 ## 🖼️ Screenshots
 
 ### Executive Dashboard
-![Executive Dashboard](screenshots/executive_dashboard.png)
+![Executive Dashboard]<img width="1657" height="876" alt="image" src="https://github.com/user-attachments/assets/869be10a-4269-4db6-a1e4-b2765eac47bc" />
+<img width="1634" height="873" alt="image" src="https://github.com/user-attachments/assets/db1202e6-7286-42ae-97bb-8338bd647d3b" />
+
 *Real-time KPI metrics and condition analytics*
 
 ### Geospatial View
@@ -503,93 +505,3 @@ pip install -r requirements.txt
 ```
 
 ---
-
-## 🤝 Contributing
-
-We welcome contributions! Please follow these steps:
-
-1. **Fork the Repository**
-2. **Create Feature Branch**: `git checkout -b feature/AmazingFeature`
-3. **Commit Changes**: `git commit -m 'Add AmazingFeature'`
-4. **Push to Branch**: `git push origin feature/AmazingFeature`
-5. **Open Pull Request**
-
-### Development Guidelines
-
-- Follow PEP 8 style guide
-- Add docstrings to functions
-- Include unit tests for new features
-- Update documentation
-- Test on multiple screen sizes
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 📞 Support
-
-### Contact Information
-
-- **Email**: support@mcc-dashboard.com
-- **Documentation**: [Wiki](https://github.com/yourusername/mcc-sewer-dashboard/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/mcc-sewer-dashboard/issues)
-
-### Reporting Bugs
-
-Please include:
-- Python version
-- Operating system
-- Steps to reproduce
-- Error messages
-- Screenshots (if applicable)
-
----
-
-## 🙏 Acknowledgments
-
-- **Mangalore City Corporation** for domain expertise
-- **Streamlit Community** for framework support
-- **OpenStreetMap** for geographic data
-- **Plotly Team** for visualization tools
-
----
-
-## 🗺️ Roadmap
-
-### Version 3.1 (Upcoming)
-- [ ] Real-time sensor data integration
-- [ ] Automated maintenance scheduling
-- [ ] Mobile app companion
-- [ ] Advanced ML predictions
-
-### Version 3.2 (Future)
-- [ ] Multi-city support
-- [ ] API endpoints for third-party integration
-- [ ] Augmented reality field tools
-- [ ] IoT device management
-
----
-
-## 📊 Project Statistics
-
-- **Lines of Code**: ~1,500
-- **Functions**: 15+
-- **Visualizations**: 20+
-- **Map Types**: 4
-- **Dashboard Views**: 5
-
----
-
-<div align="center">
-
-**Built with ❤️ for Smart Cities**
-
-⭐ Star this repo if you find it helpful!
-
-[Report Bug](https://github.com/yourusername/mcc-sewer-dashboard/issues) • [Request Feature](https://github.com/yourusername/mcc-sewer-dashboard/issues) • [Documentation](https://github.com/yourusername/mcc-sewer-dashboard/wiki)
-
-</div>
