@@ -1,0 +1,656 @@
+fid_1,fid,ID,Material,Depth,Diameter,Cover type,Condition,pipe material,Pipe diameter,no of connnections,x,y
+1,0,"503",Concrete ,,1.2 m,Concrete ,Inaccessible ,PVC,8 inch ,,74.8370070200,12.8606979300
+2,1,"201",Concrete,1.15m,"1.2",Concrete ,Poor,Pvc,8 inch,,74.8421297885,12.8465406834
+3,2,"202",Concrete,1.5m,"1.2",Concrete ,moderate,Pvc,8 inch,"3",74.8419646313,12.8467610482
+4,3,"203",Brick,"2.85","1.2",Concrete ,Moderate,Pvc,8 inch,"3",74.8420462994,12.8468069172
+5,4,"204",Concrete,"2.7","1.2",Concrete ,Good,Pvc,8 inch,"2",74.8420696517,12.8469823408
+6,5,"205",Concrete,"2.66","1.2",Concrete ,Good,Pvc,8 inch,"3",74.8420560655,12.8471389438
+7,6,"206",Concrete,2.6m,"1.2",Concrete ,Good,Pvc,8 inch,,74.8420830208,12.8473759565
+8,7,"233",Concrete,,"1.2",Concrete ,Poor ,Pvc,8 inch,,74.8418171806,12.8469515160
+9,8,"234",Concrete,,"1.2",Concrete ,Poor,Pvc,8 inch,,74.8416935142,12.8472057050
+10,9,"235",Concrete,,"1.2",Concrete ,Poor,Pvc,8 inch,,74.8414887937,12.8473221291
+11,10,"236",Concrete,,"1.2",Concrete ,Poor,Pvc,8 inch,,74.8412943498,12.8474381812
+12,11,"207",Concrete,"2.07","1.2",Concrete ,Poor,Pvc,8 inch,,74.8421617832,12.8476485947
+13,12,"208",Concrete,"2.05","1.2",Concrete ,Good,Pvc,8 inch,"1",74.8421465218,12.8478419945
+14,13,"209",Concrete,"1.75","1.2",Concrete ,Good,Pvc,8 inch,"1",74.8421343565,12.8480274283
+15,14,"210",Concrete,1.9 m,"1.2",Concrete ,Good,Pvc,8 inch,"3",74.8421282141,12.8482587088
+16,15,"211",Concrete,"2","1.2",Concrete ,Good,Pvc,8 inch,"4",74.8421251844,12.8484607024
+17,16,"212",Concrete,1.8 m,"1.2",Concrete ,Good,Pvc,8 inch,"4",74.8421319310,12.8486653411
+18,17,"213",Concrete,1.8 m,"1.2",Concrete ,Good,Pvc,8 inch,"1",74.8421129189,12.8487733182
+19,18,"214",Concrete,2m,"1.2",Concrete ,Good,Pvc,8 inch,"4",74.8421041669,12.8488978720
+20,19,"215",Concrete,1.75m,"1.2",Concrete ,Poor,Pvc,8 inch,"1",74.8421346504,12.8490482295
+21,20,"216",Concrete,"1.87","1.2",Concrete ,Moderate ,Pvc,8 inch,,74.8421334801,12.8491417769
+22,21,"217",Concrete,1.9m,"1.2",Concrete ,Moderate ,Pvc,8 inch,,74.8421430949,12.8492212385
+23,22,"218",Concrete,1.95m,"1.2",Concrete ,Poor,Pvc,8 inch,,74.8421509443,12.8493901362
+24,23,"237",Concrete,,"1.2",Concrete ,Poor,Pvc,8 inch,,74.8410322205,12.8475680001
+25,24,"238",Concrete,1.7m,"1.2",Concrete ,Good,Pvc,8 inch,"2",74.8409467130,12.8476402200
+26,25,"239",Concrete,,"1.2",Concrete ,Non openable,Pvc,8 inch,,74.8406810006,12.8477935438
+27,26,"240",Concrete,1.6m,"1.2",Concrete ,Good,Pvc,8 inch,,74.8404675817,12.8479695656
+28,27,"241",Concrete,1.6m,"1.2",Concrete ,Poor,Pvc,8 inch,,74.8402002240,12.8481864645
+29,28,"242",Concrete,,"1.2",Concrete ,Non openable ,Pvc,8 inch,,74.8399983085,12.8482043699
+30,29,"243",Concrete,1.5m,"1.2",Concrete ,Good,Pvc,8 inch,"2",74.8397398797,12.8482531476
+31,30,"244",Concrete,1.55m,"1.2",Concrete ,Good,Pvc,8 inch,"2",74.8396095311,12.8482414635
+32,31,"245",Concrete,1.6 m,"1.2",Concrete ,Good,Pvc,8 inch,"1",74.8394974386,12.8482648495
+33,32,"246",Concrete,1.6m,"1.2",Concrete ,Non openable ,Pvc,8 inch,,74.8392264417,12.8482195508
+34,33,"247",Brick,1.5m,"1.2",Concrete ,Good,Pvc,8 inch,"2",74.8391242754,12.8482027470
+35,34,"248",Concrete,,"1.2",Concrete ,Non openable ,Pvc,8 inch,,74.8389936203,12.8481913781
+36,35,"249",Concrete,1.5m,"1.2",Concrete ,Poor,Pvc,8 inch,,74.8388374827,12.8481679341
+37,36,"250",Concrete,,"1.2",Concrete ,,Pvc,8 inch,,74.8385650338,12.8481183452
+38,37,"219",Concrete,2m,"1.2",Concrete ,Moderate ,Pvc,8 inch,,74.8421524252,12.8494857186
+39,38,"220",Concrete,,"1.2",Concrete ,Non openable ,Pvc,8 inch,,74.8421426333,12.8495921744
+40,39,"221",Concrete,2.4 m,"1.2",Concrete ,Moderate ,Pvc(junction flow perpendicu),8 inch,"3",74.8421401507,12.8497347197
+41,40,"222",Brick,2.3m,"1.2",Concrete ,Moderate ,Pvc,8 inch,"4",74.8419257025,12.8497089635
+42,41,"223",Brick,2.5 m,"1.2",Concrete ,Moderate ,Pvc,8 inch,"2",74.8417864565,12.8496996457
+43,42,"224",Concrete,"2.95","1.2",Metal,Poor,Pvc,8 inch,"2",74.8415563208,12.8496904712
+44,43,"225",Concrete,"1.79","1.2",Concrete ,Poor,Pvc,8 inch,"4",74.8421306836,12.8499852580
+45,44,"226",Concrete,"1.45","1.2",Concrete ,Poor,Pvc,8 inch,,74.8418378520,12.8499809269
+46,45,"227",Concrete,1.75m,"1.2",Concrete ,Poor,Pvc,8 inch,,74.8417850260,12.8498489278
+47,46,"228",Concrete,,"1.2",Concrete ,Non openable ,Pvc,8 inch,,74.8417103332,12.8497545693
+48,47,"229",Concrete,"2.05","1.2",Concrete ,,Pvc,8 inch,,74.8411637449,12.8496457979
+49,48,"230",Concrete,2.1m,"1.2",Concrete ,Poor,Pvc,8 inch,,74.8407599533,12.8496105906
+50,49,"231",Concrete,1.75m,"1.2",Concrete ,Moderate ,Pvc,8 inch,,74.8408719280,12.8498397846
+51,50,"301",Concrete,2m,1.2 m,Concrete ,Good,,,,74.8365526056,12.8617148227
+52,51,"302",Concrete,2m,1.2 m,Concrete ,Good,Pvc,12 inch,"2",74.8362083257,12.8618074925
+53,52,"303",Concrete,2.28 m,1.2 m,Concrete ,Good,Pvc,12 inch ,,74.8360545386,12.8618050855
+54,53,"304",Concrete,,1.2 m,Concrete ,Inaccessible ,Pvc,12 inch ,,74.8357522827,12.8618164301
+55,54,"305",Concrete,1.6m,1.2 m,Concrete ,Good ,Pvc,8  inch ,,74.8355725950,12.8618133033
+56,56,"307",Concrete,2.18m,1.2 m,Concrete ,Good,Pvc,12  inch ,,74.8351377321,12.8617537955
+57,57,"308",Concrete,3.2 m,1.2 m,Concrete ,Good,Pvc,12  inch ,,74.8348801410,12.8617127943
+58,58,"309",Concrete,2.7 m,1.2 m,Concrete ,Good,Pvc,12  inch ,"1",74.8346649225,12.8617005778
+59,59,"310",Concrete,,1.2 m,Concrete ,Good,Pvc,12  inch ,,74.8342527898,12.8616649863
+60,60,"311",Concrete,1.82 m,1.2 m,Concrete ,Good,Pvc,12  inch ,"1",74.8340595495,12.8616971984
+61,61,"312",Concrete,,1.2 m,Concrete ,Inaccessible ,Pvc,12  inch ,,74.8338681441,12.8616940870
+62,62,"313",Concrete,1.6 m,1.2 m,Concrete ,Poor ,Pvc,12  inch ,,74.8336316667,12.8617117996
+63,63,"315",Concrete,,1.2 m,Concrete ,Inaccessible ,Pvc,12  inch ,,74.8336746126,12.8613530980
+64,64,314 (starting point),Concrete,1.1m,1.2 m,Concrete ,Good ,Pvc,12  inch ,,74.8336358451,12.8616429674
+65,65,"316",Concrete,,1.2 m,Concrete ,Good,Pvc,12  inch ,,74.8337134316,12.8609849488
+66,66,"317",Concrete,1.38 m,1.2 m,Concrete ,Poor,Pvc,12 inch,,74.8337310695,12.8608284000
+67,67,"318",Concrete,1.42 m,1.2 m,Concrete ,Poor,Pvc,12  inch,,74.8337540068,12.8606260476
+68,68,"319",Concrete,1.52 m,1.2 m,Concrete ,Poor,Pvc,12  inch,,74.8337769600,12.8604519664
+69,70,"320",Concrete,"1.65",1.2 m,Concrete ,Moderate ,Pvc,12  inch,"1",74.8338368472,12.8602158548
+70,71,"321",Concrete,2.04 m,1.2 m,Concrete ,Good ,Pvc,12  inch,,74.8338930633,12.8599952383
+71,72,"322",Concrete,,1.2 m,Concrete ,Inaccessible ,Pvc,12  inch,,74.8339100882,12.8597525510
+72,73,"323",Concrete,1.82 m,1.2 m,Concrete ,Good ,Pvc,12  inch,"1",74.8339106938,12.8596362273
+73,74,"324",Concrete,1.77 m,1.2 m,Concrete ,Good ,Pvc,12  inch,"1",74.8339411192,12.8592730460
+74,75,"325",Concrete,,1.2 m,Concrete ,Inaccessible ,Pvc,12  inch,,74.8339936507,12.8588538372
+75,76,"326",Concrete,1.7m,1.2 m,Concrete ,Inaccessible ,Pvc,12  inch,,74.8339931450,12.8587328464
+76,77,400(starting point),Concrete ,1.26 m,1.2 m,Concrete ,Moderate,PVC,12 inch,,74.8339943987,12.8587145900
+77,78,"401",Concrete ,,1.2 m,Concrete ,Inaccessible ,PVC,,,74.8340563531,12.8584124279
+78,79,"402",Concrete ,1.3m,1.2 m,Concrete ,Poor,PVC,,,74.8341372776,12.8582868552
+79,80,"403",Concrete ,,1.2 m,Concrete ,Inaccessible ,PVC,,,74.8342197704,12.8580516036
+80,81,"404",Concrete ,1.17m,1.2 m,Concrete ,Poor,PVC,,,74.8342542873,12.8579700691
+81,82,"405",Concrete ,1.1m,1.2 m,Concrete ,Moderate ,PVC,,,74.8342947725,12.8578557540
+82,83,"406",Concrete ,1.35 m,1.2 m,Concrete ,Poor,PVC,,,74.8343806615,12.8576064895
+83,84,"407",Concrete ,,1.2 m,Concrete ,Inaccessible ,PVC,,,74.8344715723,12.8573716001
+84,85,"408",Concrete ,1.48m,1.2 m,Concrete ,Moderate ,PVC,,,74.8344918305,12.8572885273
+85,86,"409",Concrete ,,1.2 m,Concrete ,Inaccessible ,PVC,,,74.8345883289,12.8570450888
+86,87,"410",Concrete ,0.82m,1.2 m,Concrete ,Poor,PVC,,,74.8346190529,12.8569442923
+87,88,"411",Concrete ,1.1m,1.2 m,Concrete ,Poor,PVC,,,74.8346997894,12.8567390113
+88,89,"412",Concrete ,0.8m,1.2 m,Concrete ,Poor,PVC,,,74.8347860632,12.8565448046
+89,90,"413",Concrete ,,1.2 m,Concrete ,Poor(blocked)  inaccessible ,PVC,,,74.8347840201,12.8563913464
+90,91,"414",Concrete ,0.9m,1.2 m,Concrete ,Poor,PVC,,,74.8349109928,12.8561243969
+91,92,"415",Concrete ,1.38m,1.2 m,Concrete ,Poor,PVC,,,74.8349255163,12.8560642295
+92,93,"416",Concrete ,,1.2 m,Concrete ,Inaccessible ,PVC,,,74.8351474652,12.8555032063
+93,94,"417",Concrete ,1.07m,1.2 m,Concrete ,"Poor,blocked ",PVC,,,74.8352119247,12.8552233519
+94,95,"418 ",Concrete ,1.88m,1.2 m,Concrete ,Moderate ,PVC,,,74.8352459455,12.8551496683
+95,96,"419",Concrete ,1.15 m,1.2 m,Concrete ,Moderate,PVC,,,74.8353809073,12.8549370077
+96,97,"420",Concrete ,2.03m,1.2 m,Concrete ,,PVC,,,74.8354770554,12.8548766940
+97,98,"421",Concrete ,1.88m,1.2 m,Concrete ,Moderate ,PVC,,,74.8356619617,12.8545752280
+98,99,"422",Concrete ,2.02m,1.2 m,Concrete ,Moderate ,PVC,,,74.8356813937,12.8545485056
+99,100,"423",Concrete ,2.13m,1.2 m,Concrete ,Moderate ,PVC,,,74.8358727462,12.8542927715
+100,101,"424",Concrete ,"2.11",1.2 m,Concrete ,Moderate ,PVC,,,74.8362528643,12.8539743722
+101,102,"425",Concrete ,2.12m,1.2 m,Concrete ,Moderate ,PVC,,,74.8365017261,12.8539328660
+102,103,"426",Concrete ,1.63m,1.2 m,Concrete ,Poor,PVC,,,74.8369204750,12.8538385116
+103,104,"427",Concrete ,1.2m,1.2 m,Concrete ,Moderate ,PVC,,,74.8369951826,12.8537973546
+104,106,"451",Concrete ,1.86 m,1.2m,Concrete ,Good,PVC, 8 inch,"1",74.8365891353,12.8629608570
+105,107,"452",Concrete ,1.9 m,1.2m,Concrete ,Moderate ,PVC,8 inch ,,74.8365589426,12.8631960554
+106,108,"453",Concrete ,1.76 m,1.2m,Concrete ,Moderate ,PVC,8 inch ,"1",74.8365099869,12.8634115388
+107,109,"454",Concrete ,2.15 m,1.2m,Concrete ,Poor( blocked),PVC,8 inch ,,74.8364591204,12.8638107266
+108,110,"455",Brick ,"1.91",1.2m,Concrete ,Good,PVC,8 inch ,,74.8362472746,12.8638488301
+109,111,"456",Concrete ,1.9 m,1.2m,Concrete ,Good,PVC,8 inch ,"3",74.8359484365,12.8638773743
+110,112,"457",Brick ,1.82 m,1.2m,Concrete ,Good,PVC,8 inch ,"3",74.8357893747,12.8639112234
+111,113,"458",Concrete ,,1.2m,Concrete ,Inaccessible ,PVC,8 inch ,,74.8357243779,12.8639192105
+112,114,"459",Brick,1.73m,1.2m,Concrete ,Good,PVC,8 inch ,"1",74.8354610755,12.8639056503
+113,115,"460",Brick,,1.2m,Concrete ,Inaccessible ,PVC,8 inch ,,74.8351865237,12.8638878586
+114,116,"461",Brick,1.91 m,1.2m,Concrete ,Good ,PVC,8 inch ,"1",74.8350821379,12.8638527548
+115,117,"462",Brick,,1.2m,Concrete ,Inaccessible ,PVC,8 inch ,,74.8349341717,12.8638371120
+116,118,"463",Brick,2.7m,1.2m,Concrete ,Good,PVC,8 inch ,"2",74.8347048314,12.8638241276
+117,119,464(new),Brick,2.78 m,1.2m,Concrete ,Good,PVC,8 inch ,"1",74.8344947422,12.8638286408
+118,120,465(old),Brick,,1.2m,Concrete ,Inaccessible ,PVC,8 inch ,,74.8344348377,12.8638397442
+119,121,"466",Concrete ,2.05 m,1.2m,Concrete ,Good,PVC,8 inch ,"1",74.8342106749,12.8638834102
+120,122,"467",Concrete ,,1.2m,Concrete ,Inaccessible ,PVC,8 inch ,,74.8339214617,12.8639380918
+121,123,"468",Concrete ,,1.2m,Concrete ,Inaccessible ,PVC,8 inch ,,74.8338169296,12.8639696483
+122,124,"469",Concrete ,,1.2m,Concrete ,Inaccessible ,PVC,8 inch ,,74.8335527379,12.8638833031
+123,125,"470",Concrete ,2.24 m,1.2m,Concrete ,Good ,PVC,8 inch ,,74.8334926959,12.8638917418
+124,126,"471",Concrete ,,1.2m,Concrete ,Inaccessible ,PVC,8 inch ,,74.8333419978,12.8638794717
+125,127,"472",Concrete ,1.75 m,1.2m,Concrete ,Good,PVC,8 inch ,"2",74.8331648379,12.8638114476
+126,128,"473",Brick,1.64 m,1.2m,Concrete ,Good,PVC,8 inch ,,74.8330408851,12.8637931849
+127,129,"474",Brick,1.45 m,1.2m,Concrete ,Good,PVC,8 inch ,"2",74.8329420010,12.8637236320
+128,130,"475 ",Brick,1.15m,1.2m,Concrete ,Good,PVC,8 inch ,,74.8329549727,12.8635883578
+129,131,"476",Brick,,1.2m,Concrete ,Inaccessible (under the road),PVC,8 inch ,,74.8327830360,12.8635226673
+130,132,"477",Brick,,1.2m,Concrete ,Inaccessible (under the road),PVC,8 inch ,,74.8325714834,12.8634621677
+131,133,"478",Concrete ,,1.2m,Concrete ,Inaccessible (Broken),PVC,8 inch ,,74.8323424928,12.8633468524
+132,134,"502",Concrete ,1.48 m,1.2 m,Concrete ,Moderate ,PVC,8 inch ,"2",74.8370025353,12.8609291529
+133,135,"504",Concrete ,1.33 m,1.2 m,Concrete ,,PVC,8 inch ,,74.8370222000,12.8604772000
+134,136,"505",Concrete ,1.5m,1.2 m,Concrete ,Good ,PVC,8 inch ,"1",74.8370468061,12.8602076274
+135,137,"506",Concrete ,1.78 m,1.2 m,Concrete ,Good ,PVC,8 inch ,,74.8370533606,12.8599765036
+136,138,"507",Concrete ,1.92 m,1.2 m,Concrete ,Good,PVC,8 inch ,"2",74.8370628520,12.8597893150
+137,139,"508",Concrete ,1.94 m,1.2 m,Concrete ,Good ,PVC,8 inch ,"1",74.8370806576,12.8594310441
+138,140,"509",Concrete ,1.4 m,1.2 m,Concrete ,Good ,PVC,8 inch ,"2",74.8370905251,12.8592701107
+139,141,"501",Concrete ,1.1 m,1.2 m,Concrete ,Good ,PVC,8 inch ,"2",74.8370141252,12.8611788151
+140,142,"500",Concrete ,,1.2 m,Concrete ,Inaccessible ,PVC,8 inch ,,74.8369553359,12.8612989480
+141,143,"510",Concrete ,1.68  m,1.2 m,Concrete ,Good ,PVC,8 inch ,"1",74.8370965149,12.8590660660
+142,144,"511",Concrete ,,1.2 m,Concrete ,Inaccessible ,PVC,8 inch ,,74.8370916800,12.8588623200
+143,145,"512",Concrete ,2.1m,1.2 m,Concrete ,Good ,PVC,8 inch ,"2",74.8370594745,12.8584637595
+144,146,"513",Concrete ,1.95m,1.2 m,Concrete ,Good ,PVC,8 inch ,"2",74.8370425371,12.8583373095
+145,147,"514",Concrete ,2.22 m,1.2 m,Concrete ,Good ,PVC,8 inch ,"2",74.8370049205,12.8580018469
+146,148,"515",Concrete ,2.02 m,1.2 m,Concrete ,Good ,PVC,8 inch ,"2",74.8369840902,12.8578174538
+147,149,"516",Concrete ,2.06 m,1.2 m,Concrete ,Good ,PVC,8 inch ,"4",74.8369397132,12.8576128383
+148,150,"517",Concrete ,1.75 m,1.2 m,Concrete ,Good ,PVC,8 inch ,"4",74.8369288013,12.8573156460
+149,151,518( jn),Concrete ,2.3 m,1.2 m,Concrete ,Good ,PVC,8 inch ,"2",74.8368571917,12.8570867823
+150,152,"519",Concrete ,,1.2 m,Concrete ,Inaccessible ,PVC,8 inch ,,74.8367699196,12.8568436737
+151,153,"520",Concrete ,,1.2 m,Concrete ,Inaccessible ,PVC,8 inch ,,74.8367079460,12.8565807735
+152,154,"521",Concrete ,1.88 m,1.2 m,Concrete ,Good ,PVC,8 inch ,"1",74.8367037305,12.8562808995
+153,155,"522",Concrete ,,1.2 m,Concrete ,Inaccessible ,PVC,8 inch ,,74.8366986948,12.8560874050
+154,156,"523",Concrete ,2.08 m,1.2 m,Concrete ,Good ,PVC,8 inch ,"1",74.8367811396,12.8558177422
+155,157,"524",Concrete ,,1.2 m,Concrete ,Inaccessible ,PVC,8 inch ,,74.8368707260,12.8555856564
+156,158,"525",Concrete ,,1.2 m,Concrete ,Inaccessible ,PVC,8 inch ,,74.8369582946,12.8553844880
+157,159,"526",Concrete ,,1.2 m,Concrete ,Inaccessible ,PVC,8 inch ,,74.8370777513,12.8552086329
+158,160,527( jn),Concrete ,,1.2 m,Concrete ,,PVC,8 inch ,,74.8372174569,12.8549610190
+159,161,"528 ",Concrete ,1.68 m,1.2 m,Concrete ,Good ,PVC,8 inch ,,74.8372974698,12.8547907548
+160,162,"529",Concrete ,1.67 m,1.2 m,Concrete ,Good ,PVC,8 inch ,"1",74.8373522254,12.8546662521
+161,163,"530",Concrete ,1.65 m,1.2 m,Concrete ,Good ,PVC,8 inch ,,74.8374285073,12.8544689568
+162,164,"531",Concrete ,1.47 m,1.2 m,Concrete ,Good ,PVC,8 inch ,"2",74.8375503083,12.8542168788
+163,165,"532",Concrete ,1.48 m,1.2 m,Concrete ,Good ,PVC,8 inch ,"2",74.8375927671,12.8541050284
+164,166,"533",Concrete ,1.53m,1.2 m,Concrete ,Good ,PVC,8 inch ,,74.8376514486,12.8539479570
+165,167,536 ( starting point),Concrete ,1.5m,1.2 m,Concrete ,Good ,PVC,8 inch ,,74.8368243234,12.8576127145
+166,168,"537",Concrete ,1.99m,1.2 m,Concrete ,Good ,PVC,8 inch ,,74.8365407455,12.8575964158
+167,169,"538",Concrete ,2.01 m,1.2 m,Concrete ,Good ,PVC,8 inch ,,74.8362601259,12.8575507847
+168,170,"539",Concrete ,1.78 m,1.2 m,Concrete ,Good ,PVC,8 inch ,,74.8359362833,12.8575051588
+169,171,"540",Concrete ,1.95 m,1.2 m,Concrete ,Good ,PVC,8 inch ,"1",74.8357382326,12.8575033311
+170,172,"541",Concrete ,2.12 m,1.2 m,Concrete ,Good ,PVC,8 inch ,,74.8356772235,12.8575146318
+171,173,"542",Concrete ,1.93 m,1.2 m,Concrete ,Good ,PVC,8 inch ,"2",74.8355915655,12.8575570286
+172,174,"543",Concrete ,2.35 m,1.2 m,Concrete ,Good ,PVC,8 inch ,"3",74.8353383214,12.8578620565
+173,175,"544",Concrete ,1.9 m,1.2 m,Concrete ,Good ,PVC,8 inch ,"5",74.8350870286,12.8580864332
+174,176,"545",Concrete ,1.78 m,1.2 m,Concrete ,Good ,PVC,8 inch ,"1",74.8350212116,12.8582544455
+175,177,"546",Concrete ,1.54 m,1.2 m,Concrete ,Good ,PVC,8 inch ,"4",74.8347898287,12.8583650349
+176,178,"547",Concrete ,1.52 m,1.2 m,Concrete ,Good ,PVC,8 inch ,"2",74.8347107926,12.8584766023
+177,179,"548",Concrete ,1.45 m,1.2 m,Concrete ,Good ,PVC,8 inch ,"2",74.8345941784,12.8586232368
+178,180,"549",Concrete ,1.14 m,1.2 m,Concrete ,Good ,PVC,8 inch ,,74.8344366787,12.8587134945
+179,181,"550",Concrete ,1.03 m,1.2 m,Concrete ,Moderate ,PVC,8 inch ,"1",74.8341904962,12.8587406625
+180,182,"551",Concrete,0.8 m,1.2 m,Concrete,Poor( blocked),PVC,8 inch ,,74.8329714569,12.8616360884
+181,183,"552",Concrete,,1.2 m,Concrete,Inaccessible ,PVC,8 inch ,,74.8332163300,12.8616672600
+182,184,553 (D),Concrete,,1.2 m,Concrete,,PVC,8 inch ,,74.8334065803,12.8617031385
+183,185,"554",Concrete,0.76 m,1.2 m,Concrete,Poor,PVC,8 inch ,,74.8329261330,12.8617401487
+184,186,"555",Concrete,0.75 m,1.2 m,Concrete,Poor,PVC,8 inch ,,74.8328914205,12.8619171405
+185,187,"556",Concrete,1.22 m,1.2 m,Concrete,Poor,PVC,8 inch ,"1",74.8327997604,12.8620817134
+186,188,"557",Concrete,,1.2 m,Concrete,Inaccessible ,PVC,8 inch ,,74.8329389118,12.8622211769
+187,189,"558",Concrete,1.25 m,1.2 m,Concrete,Moderate ,PVC,8 inch ,,74.8330164511,12.8622698901
+188,190,"559",Concrete,1.6 m,1.2 m,Concrete,Moderate ,PVC,8 inch ,"3",74.8329786586,12.8627333556
+189,191,"560",Concrete,1.49 m,1.2 m,Concrete,Good,PVC,8 inch ,"4",74.8329184500,12.8629787100
+190,192,"561",Concrete,1.47 m,1.2 m,Concrete,Good,PVC,8 inch ,"1",74.8329209300,12.8631874700
+191,193,"562",Brick,1.54 m,1.2 m,Concrete,Moderate ,PVC,8 inch ,,74.8329470100,12.8634040700
+192,194,"563",Concrete,,1.2 m,Concrete,Inaccessible ,PVC,8 inch ,,74.8322975200,12.8631452800
+193,195,"564",Concrete,1.46 m,1.2 m,Concrete,Good ,PVC,8 inch ,"2",74.8323625300,12.8629139700
+194,196,"565",Concrete,1.33 m,1.2 m,Concrete,Good ,PVC,8 inch ,"2",74.8324940612,12.8626157758
+195,197,"566",Concrete,1.32 m,1.2 m,Concrete,Good ,PVC,8 inch ,"2",74.8325935256,12.8623937637
+196,198,"567",Concrete,,1.2 m,Concrete,Inaccessible ,PVC,8 inch ,,74.8327015667,12.8622288680
+197,199,"601",Concrete ,,"1.2",Concrete ,Inaccessible ,PVC,8 inch,,74.8456915584,12.8490172546
+198,200,"602",Concrete ,,"1.2",Concrete ,Inaccessible ,PVC,8 inch,,74.8452948364,12.8489004713
+199,201,"603",Concrete ,"1.59","1.2",Concrete ,Good ,PVC,8 inch,"2",74.8451598148,12.8487973297
+200,202,"604",Concrete ,"1.4","1.2",Concrete ,Good ,PVC,8 inch,"3",74.8448860317,12.8488884997
+201,203,"605",Concrete ,"1.68","1.2",Concrete ,Good,PVC,8 inch,"2",74.8447352617,12.8491372112
+202,204,"606",Concrete ,"1.53","1.2",Concrete ,Good ,PVC,8 inch,"2",74.8445338967,12.8491161992
+203,205,"607",Concrete ,"1.41","1.2",Concrete ,Good ,PVC,8 inch,"3",74.8443364519,12.8490929922
+204,206,"608",Concrete ,"1.42","1.2",Concrete ,Good ,PVC,8 inch,"2",74.8442253389,12.8490674246
+205,207,"609",Concrete ,"1.35","1.2",Concrete ,Good ,PVC,8 inch,"5",74.8440164798,12.8490457726
+206,208,"610",Concrete ,,"1.2",Concrete ,Inaccessible ,PVC,8 inch,,74.8436915176,12.8490250890
+207,209,"611",Concrete ,,"1.2",Concrete ,Inaccessible ,PVC,8 inch,,74.8434982308,12.8489827244
+208,210,"612",Concrete ,"1.46","1.2",Concrete ,Good ,PVC,8 inch,"5",74.8433733349,12.8490169871
+209,211,"613",Concrete ,"1.31","1.2",Concrete ,Good ,PVC,8 inch,"2",74.8432199638,12.8490098404
+210,212,"614",Concrete ,,"1.2",Concrete ,Inaccessible ,PVC,8 inch,,74.8430481846,12.8490155030
+211,213,"615",Concrete ,"1.41","1.2",Concrete ,Good ,PVC,8 inch,"3",74.8429117253,12.8490315005
+212,214,"616",Concrete ,"1.37","1.2",Concrete ,Good ,PVC,8 inch,"4",74.8427082372,12.8490067982
+213,215,"617",Concrete ,"1.38","1.2",Concrete ,Moderate ,PVC,8 inch,"1",74.8424420838,12.8490248834
+214,216,"618",Concrete ,"1.4","1.2",Concrete ,Moderate ,PVC,8 inch,,74.8422918693,12.8489944014
+215,217,"620",Concrete ,,"1.2",Concrete ,Inaccessible ,PVC,8 inch,,74.8423839396,12.8464707122
+216,218,"619",Brick,"2.35","1.2",Concrete ,Good ,Stoneware,8 inch,"4",74.8421972369,12.8465118911
+217,219,"621",Concrete ,"1.8","1.2",Concrete ,Poor,PVC,8 inch,Flow towards 620,74.8426101525,12.8465740131
+218,220,"622",Concrete ,"2.19","1.2",Concrete ,Poor,PVC,8 inch,,74.8428777357,12.8466091452
+219,221,"623",Concrete ,"1.56","1.2",Concrete ,Moderate ,PVC,8 inch,,74.8430967959,12.8466595916
+220,222,"624",Concrete ,"2.67","1.2",Concrete ,Poor,PVC,8 inch,,74.8433404546,12.8467227387
+221,223,"625",Concrete ,,"1.2",Concrete ,Inaccessible ,PVC,8 inch,,74.8435458821,12.8467792086
+222,224,"626",Concrete ,,"1.2",Concrete ,Inaccessible ,PVC,8 inch,,74.8437093751,12.8467862327
+223,225,"627",Concrete ,"3.15","1.2",Concrete ,Moderate ,PVC,8 inch,"2",74.8439835007,12.8468525420
+224,226,"628",Concrete ,,"1.2",Concrete ,Inaccessible ,PVC,8 inch,,74.8441906552,12.8468963821
+225,227,"629",Concrete ,"4.5","1.2",Concrete ,Moderate ,PVC,8 inch,"2",74.8445394810,12.8469753102
+226,228,"630",Concrete ,"5.2","1.2",Concrete ,Good,PVC,8 inch,"3",74.8448801429,12.8470551285
+227,229,"631",Concrete ,"5.57","1.2",Concrete ,Good ,PVC,8 inch ,"4",74.8452922232,12.8471813446
+228,230,"632",Concrete ,"5.3","1.2",Concrete ,Good,PVC,8 inch ,,74.8455757824,12.8472389882
+229,231,"633",Concrete ,"4.83","1.2",Concrete ,Good,PVC,8 inch ,"3",74.8459578582,12.8473263618
+230,232,"635",Concrete ,"2.4","1.2",Concrete ,Good,PVC,12 inch ,,74.8462878349,12.8477000070
+231,233,"636",Concrete ,"2.08","1.2",Concrete ,Good,PVC,8 inch ,"3",74.8462683179,12.8478441106
+232,234,"637",Concrete ,"2.29","1.2",Concrete ,Good,PVC,8 inch ,2 (Flow to 635),74.8462095701,12.8479696539
+233,235,"638",Concrete ,"2.3","1.2",Concrete ,Good,PVC,8 inch ,"3",74.8461371165,12.8482424479
+234,236,"639",Concrete ,"2.3","1.2",Concrete ,Good ,PVC,8 inch ,"1",74.8460870788,12.8484020902
+235,237,"640",Concrete ,"2.16","1.2",Concrete ,Good,PVC,8 inch ,"2",74.8460059615,12.8485925158
+236,238,"641",Concrete ,"1.67","1.2",Concrete ,Good,PVC,8 inch ,"3",74.8459553085,12.8486939220
+237,239,642 (start),Concrete ,"1.28","1.2",Concrete ,Good,PVC,8 inch ,1 (to 641),74.8458870985,12.8489693018
+238,240,"651",Concrete ,"1.7","1.2",Concrete ,Good ,PVC ,8 inch,"1",74.8459317184,12.8609570830
+239,241,650(starting),Concrete ,"2","1.2",Concrete ,Good,PVC ,8 inch,"2",74.8460925589,12.8610095829
+240,242,"652",Concrete ,"1.57","1.2",Concrete ,Good ,PVC ,8 inch,"8",74.8457463724,12.8609131559
+241,243,"653",Concrete ,"1.29","1.2",Concrete ,Moderate ,PVC ,8 inch,,74.8455554553,12.8609029618
+242,244,654(end),Concrete ,,"1.2",Concrete ,Inaccessible ,PVC ,8 inch,,74.8453873441,12.8609049519
+243,245,655(starting),Concrete ,"1.48","1.2",Concrete ,Good ,PVC ,8 inch,,74.8457611286,12.8605941665
+244,246,"656",Brick,"2.1","1.2",Concrete ,Good ,PVC ,8 inch,"0",74.8457421806,12.8605241654
+245,247,"657",Brick,"1.51","1.2",Concrete ,Good ,PVC ,8 inch,No connections in this area,74.8457994220,12.8605234606
+246,248,"658",Brick,"1.14","1.2",Concrete ,Good ,PVC ,8 inch,,74.8455757991,12.8605148539
+247,249,659 (s),Brick,"1.02","1.2",Concrete ,Good ,PVC ,8 inch,,74.8452231461,12.8605379097
+248,250,"660",Brick,"2.46","1.2",Concrete ,Good ,PVC ,8 inch,From 657,74.8458949801,12.8602385953
+249,251,"661",Brick,"2.49","1.2",Concrete ,Good ,PVC ,8 inch,"4",74.8458604213,12.8602266931
+250,252,662 (s),Concrete ,"1.29","1.2",Concrete ,Good ,PVC ,8 inch,"4",74.8465889403,12.8603522766
+251,253,"663",Concrete ,,"1.2",Concrete ,Inaccessible ,PVC ,8 inch,,74.8464989516,12.8605148388
+252,254,664 (jn),Concrete ,"1.48","1.2",Concrete ,Good ,PVC ,8 inch,"4",74.8463426208,12.8604651593
+253,255,665(s),Concrete ,,"1.2",Concrete ,Inaccessible ,PVC ,8 inch,,74.8461653792,12.8608467291
+254,256,"666",Concrete ,"1.57","1.2",Concrete ,Good ,SW,8 inch,"2",74.8462766785,12.8604129172
+255,257,"667",Concrete ,"1.64","1.2",Concrete ,Good ,PVC 2,8 inch,"2",74.8462036191,12.8603646769
+256,258,"668",Concrete ,"2.2","1.2",Concrete ,Good ,PVC 2,8 inch,,74.8457690429,12.8601871043
+257,259,"669",Concrete ,"1.89","1.2",Concrete ,Good ,PVC 2,8 inch,"2",74.8454481478,12.8600977639
+258,260,"670",Concrete ,"1.93","1.2",Concrete ,Moderate ,PVC 2,8 inch,2( flow from 669),74.8455469005,12.8598168078
+259,261,"671",Brick,"1.94","1.2",Concrete ,Moderate ,PVC 2,8 inch,"4",74.8457091636,12.8595069686
+260,262,672(e),Concrete ,"1.87","1.2",Concrete ,Moderate ,PVC 2,8 inch,"6",74.8457967127,12.8591938218
+261,263,"673",Concrete ,"1.75","1.2",Concrete ,Moderate ,PVC 2,8 inch,Flow Towards  672,74.8461507173,12.8593542785
+262,264,"674",Concrete ,"1.53","1.2",Concrete ,Moderate ,PVC 2,8 inch,3 (Flow to 673) by,74.8461507173,12.8593542785
+263,265,"675",Concrete ,"1.57","1.2",Concrete ,Moderate ,PVC 2,8 inch,4 (flow towards 673),74.8460487268,12.8596677577
+264,266,676(s),Concrete ,"1.21","1.2",Concrete ,Moderate ,PVC 2,6 inch,"4",74.8458848288,12.8600386938
+265,267,677(s),Concrete ,"1.49","1.2",Concrete ,Good ,PVC ,8 inch,"4",74.8463079951,12.8601816520
+266,268,"678",Concrete ,,"1.2",Concrete ,Inaccessible ,PVC ,8 inch,,74.8464214546,12.8599668119
+267,269,"679",Concrete ,"1.37","1.2",Concrete ,Inaccessible ,PVC ,8 inch,"4",74.8466247939,12.8597771555
+268,270,"680",Concrete ,"1.59","1.2",Concrete ,Good,PVC ,8 inch,,74.8467482089,12.8597550590
+269,271,"681",Concrete ,"1.61","1.2",Concrete ,Good,PVC ,8 inch,Towards 674,74.8466691840,12.8594397962
+270,272,"682",Concrete ,"1.4","1.2",Concrete ,Moderate,PVC ,8 inch,"1",74.8455680564,12.8611647145
+271,273,"683",Brick,"1.58","1.2",Concrete ,Moderate,PVC ,8 inch,"1",74.8454756236,12.8612495606
+272,274,"684",Brick,"1.52","1.2",Concrete ,Moderate,PVC ,8 inch,,74.8452457932,12.8612658872
+273,275,685(jn),Brick,,"1.2",Concrete ,Inaccessible ,PVC ,8 inch,,74.8450105337,12.8612678988
+274,276,"686",Brick,"0.95","1.2",Concrete ,Moderate,SW,8 inch,"3",74.8450188111,12.8614111193
+275,277,"687",Brick,"1.04","1.2",Concrete ,Moderate,SW,8 inch,"4",74.8450226238,12.8616114408
+276,278,688(s),Brick,"0.98","1.2",Metal,Moderate,SW,8 inch,"2",74.8452975481,12.8616355232
+277,279,"689",Concrete ,"1.56","1.2",Concrete ,Good,PVC ,8 inch,"4",74.8448443332,12.8612493619
+278,280,690(jn),Brick,"1.71","1.2",Concrete ,Moderate,Concrete ,16 inch,"4",74.8446551413,12.8612574289
+279,281,691(s),Brick,"1.09","1.2",Concrete ,Moderate,SW,8 inch,"2",74.8446047160,12.8616749931
+280,282,"692",Brick,"1.06","1.2",Concrete ,Moderate,SW,6 inch,"3",74.8446155163,12.8614637658
+281,283,"693",Brick,"1.21","1.2",Concrete ,Moderate,SW outPVC,6 inch in ,2 (flow to 690),74.8446475887,12.8612780743
+282,284,"694",Concrete ,"2.31","1.2",Concrete ,Good,PVC ,12 inch ,,74.8443531117,12.8612159936
+283,285,700 ( starting point),Concrete ,1.42 m,1.2 m,Concrete ,Good ,PVC,8 inch,"2",74.8375054114,12.8573195260
+284,286,"701",Concrete ,1.41 m,1.2 m,Concrete ,Modera,PVC,8 inch,2(not working),74.8375859694,12.8571264415
+285,287,"702",Concrete ,1.85 m,1.2 m,Concrete ,Moderate,PVC,8 inch,"1",74.8376955066,12.8569230961
+286,288,"703",Concrete ,2.26 m,1.2 m,Concrete ,Moderate,PVC,8 inch,,74.8377894317,12.8566999386
+287,289,"704",Concrete ,,1.2 m,Concrete ,Under the road,PVC,8 inch,,74.8378530397,12.8565234963
+288,290,"705",Concrete ,2.16 m,1.2 m,Concrete ,Good ,PVC,8 inch,,74.8379319921,12.8562499000
+289,291,"706",Concrete ,2.18 m,1.2 m,Concrete ,Good ,PVC,8 inch,,74.8380034177,12.8559875083
+290,292,"707",Concrete ,1.81 m,1.2 m,Concrete ,Good ,PVC,8 inch,"2",74.8381090376,12.8557209252
+291,293,"708",Concrete ,1.15m,1.2 m,Concrete ,Good ,PVC,8 inch,"2",74.8381474339,12.8555629887
+292,294,"709",Concrete ,1.21 m,1.2 m,Concrete ,Good ,PVC,8 inch,"3",74.8382075778,12.8553462022
+293,295,710flow toward 711,Concrete ,1.48 m,1.2 m,Concrete ,Good ,PVC,8 inch,"3",74.8380933131,12.8552974518
+294,296,"711",Concrete ,,1.2 m,Concrete ,Inaccessible ,PVC,8 inch,,74.8379176751,12.8552328180
+295,297,"712",Concrete , ,1.2 m,Concrete ,Inaccessible ,PVC,8 inch,,74.8378243842,12.8551984042
+296,298,"713",Concrete ,,1.2 m,Concrete ,Inaccessible ,PVC,8 inch,,74.8377017482,12.8551589683
+297,299,"714",Concrete ,1.77 m,1.2 m,Concrete ,Good ,PVC,8 inch,"2",74.8375589346,12.8550932013
+298,300,715D,Concrete ,,1.2 m,Concrete ,Good ,PVC,8 inch,,74.8375272349,12.8550775689
+299,301,"716",Laterite,1.93m,1.2 m,Concrete ,Good ,PVC,8 inch,"1",74.8375126576,12.8550564770
+300,302,"717",Laterite,1.55m,1.2 m,Concrete ,Good ,PVC,8 inch,"3",74.8374284447,12.8550108231
+301,303,"718",Concrete ,,1.2 m,Concrete ,Inaccessible ,PVC,8 inch,,74.8373227567,12.8549438027
+302,304,719 (s),Concrete ,1.1 m,1.2 m,Concrete ,Good ,PVC,8 inch,"2",74.8371574077,12.8558149696
+303,305,"720",Concrete ,1.21m,1.2 m,Concrete ,Good ,PVC,8 inch,"4",74.8370197689,12.8557670008
+304,306,"721",Concrete ,,1.2 m,Concrete ,Inaccessible ,PVC,8 inch,,74.8368553326,12.8557076415
+305,307,"722",Concrete ,,1.2 m,Concrete ,Inaccessible ,PVC,8 inch,,74.8364042701,12.8545432935
+306,308,"723",Concrete ,0.88 m,1.2 m,Concrete ,Moderate ,PVC,8 inch,"3",74.8366288145,12.8545942582
+307,309,"724",Concrete ,0.92 m,1.2 m,Concrete ,Good ,PVC,8 inch,"3",74.8368103655,12.8546294943
+308,310,"725",Concrete ,,1.2 m,Concrete ,Inaccessible ,PVC,8 inch,,74.8369759493,12.8546840907
+309,311,"726",Concrete ,"1.42",1.2 m,Concrete ,Good ,PVC,8 inch,"2",74.8371261521,12.8547546381
+310,312,727 ( flow from 533),Concrete ,2.03m,1.2 m,Concrete ,Good ,PVC,8 inch,"4",74.8379083014,12.8539917812
+311,313,"728",Concrete ,2.26 m,1.2 m,Concrete ,Good,PVC,8 inch,"4",74.8381751932,12.8540841345
+312,314,"729",Concrete ,2.52m,1.2 m,Concrete ,Good ,PVC,8 inch,"4",74.8383904625,12.8541135065
+313,315,"730",Concrete ,"2.66",1.2 m,Concrete ,Good ,Stone ware,12 inch,"5",74.8384836154,12.8537945176
+314,318,"750 ",Concrete ,,1.2 m,Concrete ,Inaccessible ,PVC,8 inch,Flow from 313,74.8336285924,12.8617504035
+315,319,"751",Concrete ,1.21 m,1.2 m,Concrete ,Poor,PVC,8 inch,,74.8336509448,12.8620460358
+316,320,"752",Concrete ,,1.2 m,Concrete ,Inaccessible ,PVC,8 inch,,74.8336865336,12.8622909392
+317,321,"753",Concrete ,1.55 m,1.2 m,Concrete ,Moderate ,PVC,8 inch,,74.8337037230,12.8625094492
+318,322,"754",Concrete ,1.52 m,1.2 m,Concrete ,Poor,PVC,8 inch,,74.8337237936,12.8626593911
+319,323,"755",Concrete ,,1.2 m,Concrete ,Inaccessible ( full),PVC,8 inch,,74.8337462906,12.8628474430
+320,324,"756",Concrete ,,1.2 m,Concrete ,Inaccessible ,PVC,8 inch,,74.8337688200,12.8630278749
+321,325,"757",Concrete ,,1.2 m,Concrete ,Poor( blocked),PVC,8 inch,,74.8337808236,12.8631576004
+322,326,"758",Concrete ,2.34 m,1.2 m,Concrete ,Poor,PVC,8 inch,"4",74.8337906474,12.8633766665
+323,327,759 (flow to 468),Concrete ,2.65m,1.2 m,Concrete ,Poor,PVC,8 inch,"2",74.8337893867,12.8636722142
+324,328,760 ( not connected ) S,Concrete ,1.9 on,1.2 m,Concrete ,,PVC,8 inch,"3",74.8345091336,12.8614433397
+325,329,761 ( S) ,Concrete ,2.9 m,1.2 m,Concrete ,Good,PVC,8 inch,,74.8345554755,12.8610961929
+326,330,"762",Concrete ,,1.2 m,Concrete ,Inaccessible ,PVC,8 inch,,74.8345896455,12.8609383960
+327,331,"770",Concrete ,,1.2 m,Concrete ,,PVC,8 inch,,74.8344073822,12.8608713989
+328,332,764 (S),Concrete ,,1.2 m,Concrete ,Inaccessible ,PVC,8 inch,,74.8346166244,12.8604835780
+329,333,"765",Concrete ,1.83m,1.2 m,Concrete ,Goo,PVC,8 inch,"5",74.8343341811,12.8604471560
+330,334,"766",Concrete ,1.96 m,1.2 m,Concrete ,Good,PVC,8 inch,"5",74.8341941729,12.8604347072
+331,335,"767",Concrete ,,1.2 m,Concrete ,Inaccessible ,PVC,8 inch,,74.8340113021,12.8604519757
+332,336,"768",Concrete ,1.49m,1.2 m,Concrete ,Poor,PVC,8 inch,"2",74.8339779344,12.8608331970
+333,337,"769",Concrete ,"1.48",1.2 m,Concrete ,Good ,PVC,8 inch,"8",74.8341616600,12.8608566977
+334,338,800 (S),Brick ,1.8 m,1.2 m,Metal,Good,Stone ware,8 inch,"3",74.8415211496,12.8567324253
+335,339,"801",Brick ,2.14 m,1.2 m,Concrete ,Good,Stone ware,8 inch,"1",74.8416914623,12.8565311274
+336,340,"802",Brick ,,1.2 m,Concrete ,Under the road,Stone ware,8 inch,,74.8417948987,12.8563662408
+337,341,"803",Brick ,,1.2 m,Concrete ,Under the road,Stone ware,8 inch,,74.8418783667,12.8561291415
+338,342,"804",Brick ,1.59 m,1.2 m,Metal,Good,Stone ware,8 inch,"3",74.8425005186,12.8560575828
+339,343,"805",Brick ,2.07 m,1.2 m,Metal,Good ,Stone ware,8 inch,"7",74.8422373390,12.8560314188
+340,344,"806",Brick ,3.5 m,1.2 m,Metal,Good,Stone ware,8 inch,"6",74.8419258747,12.8560014619
+341,345,"807",Brick ,1.12m,1.2 m,Concrete ,Good,Stone ware,8 inch,"2",74.8419711031,12.8556611285
+342,346,"808",Brick ,1.3 m,1.2 m,Metal ,Good,Stone ware,8 inch,"4",74.8416291085,12.8554625487
+343,347,"809",Brick ,1.33m,1.2 m,Metal ,Modera,Stone ware,8 inch,"2",74.8412943478,12.8552918428
+344,348,810( S),Brick ,"0.65 ",1.2 m,Concrete ,Good ,Stone ware,8 inch,"2",74.8415070497,12.8550544227
+345,349,"811",Brick ,1.2 m,1.2 m,Concrete ,Moderate,Stone ware,8 inch,,74.8412812587,12.8550188886
+346,350,"812",Brick ,1.16 m,1.2 m,Concrete ,Poor,Stone ware,8 inch,"2",74.8411443500,12.8549885165
+347,351,"813",Brick ,1.12 m,1.2 m,Concrete ,Poor,Stone ware,8 inch,"4",74.8410379916,12.8546112109
+348,352,"814",Brick ,1.29 m2,1.2 m,Concrete ,Poor,Stone ware,8 inch,,74.8409674565,12.8547033180
+349,353,"815",Brick ,1.59 m,1.2 m,Concrete ,Good ,Stone ware,8 inch,"3",74.8408618285,12.8549175391
+350,354,816 ( from 809),Brick ,2.15 m,1.2 m,Concrete ,Good,Stone ware,8 inch,"9",74.8407974324,12.8552747253
+351,355,817(S),Brick ,1.5 m,1.2 m,Concrete ,Good,Stone ware,8 inch,"5",74.8403039276,12.8555452548
+352,356,"818",Brick ,1.74 m,1.2 m,Concrete ,Good,Stone ware,8 inch,"2",74.8404016527,12.8553794080
+353,357,819 ( jn),Brick ,1.97 m,1.2 m,Concrete ,Good,Stone ware,8 inch,"2",74.8405177143,12.8552278035
+354,358,820(E),Brick ,1.98 m,1.2 m,Concrete ,Moderate (Damaged),Stone ware,8 inch,,74.8406757619,12.8548604470
+355,359,821(S),Concrete ,"0.98",1.2 m,Concrete ,Inaccessible ,Stone ware,8 inch,,74.8455519423,12.8499636628
+356,360,"822",Concrete ,,1.2 m,Concrete ,Inaccessible ,Stone ware,8 inch,,74.8458102058,12.8499419361
+357,361,823( jn),Concrete ,2.71 m,1.2 m,Concrete ,,Stone ware,8 inch,I ,74.8459429307,12.8499988673
+358,362,824(s),Concrete ,,1.2 m,Concrete ,Inaccessible ,Stone ware,8 inch,,74.8468850163,12.8500195396
+359,363,"825",Concrete ,"2.24",1.2 m,Concrete ,Good ,PVC ,8 inch,"3",74.8466460427,12.8499308622
+360,364,"826",Concrete ,2.28 m,1.2 m,Concrete ,Good,PVC ,8inch2,,74.8464809497,12.8499234296
+361,365,"827",Concrete ,2.61 m,1.2 m,Concrete ,Good,PVC , 8 inch,"3",74.8462335685,12.8499276772
+362,366,"830",Concrete ,2.64 m,1.2 m,Concrete ,Good ,PVC , 8 inch,"2",74.8455390648,12.8501458786
+363,367,828(S),Concrete ,1.45 m,1.2 m,Concrete ,Moderate ,PVC , 8 inch,"3",74.8455896088,12.8506224787
+364,368,"829",Concrete ,1.75 m,1.2 m,Concrete ,Good,PVC , 8 inch,"3",74.8455924312,12.8504437852
+365,369,"831",Concrete ,2.85 m,1.2 m,Concrete ,Good,PVC , 8 inch,"1",74.8457876533,12.8501313427
+366,370,"832",Concrete ,3.1 m,1.2 m,Concrete ,Good ,PVC , 8 inch,,74.8459412757,12.8501330810
+367,371,"833",Concrete ,2.6 m,1.2 m,Concrete ,Good ,PVC , 8 inch,"4",74.8459598616,12.8502310474
+368,372,"834",Concrete ,1.28 m,1.2 m,Concrete ,Good ,PVC , 8 inch,"5",74.8467265924,12.8503367409
+369,373,"835",Concrete ,1.3 m,1.2 m,Concrete ,Good ,PVC, 8 inch,"2",74.8466009610,12.8503467766
+370,374,"836",Concrete ,,1.2 m,Concrete ,Inaccessible ,PVC , 8 inch,,74.8463639279,12.8503605289
+371,375,"837",Concrete ,,1.2 m,Concrete ,,PVC , 8 inch,,74.8461865232,12.8503681531
+372,376,"838",Concrete ,2.24 m,1.2 m,Concrete ,Good ,PVC , 8 inch,"2",74.8459759702,12.8503779172
+373,377,"840",Concrete ,2.33 m,1.2 m,Concrete ,Good ,PVC , 8 inch,"2",74.8468408312,12.8506143433
+374,378,839(S),Concrete ,1.44 m,1.2 m,Concrete ,"3",PVC , 8 inch,,74.8468226162,12.8507749514
+375,379,"841",Concrete ,1.3 m,1.2 m,Concrete ,Good,PVC , 8 inch,,74.8466934265,12.8506199926
+376,380,"842",Concrete ,"0.97",1.2 m,Concrete ,Good,PVC , 8 inch,"2",74.8465305468,12.8506527101
+377,381,"843",Concrete ,,1.2 m,Concrete ,Inaccessible ,PVC , 8 inch,,74.8463466379,12.8506587974
+378,382,"844",Concrete ,"1.59",1.2 m,Concrete ,Good ,PVC , 8 inch,"2",74.8462076539,12.8506748941
+379,383,845 ( jn),Concrete ,2.02 m,1.2 m,Concrete ,Good ,PVC , 8 inch,"4",74.8460125933,12.8506896646
+380,384,"846 ",Concrete ,1.63 m,1.2 m,Concrete ,Good,PVC , 8 inch,"3",74.8460246558,12.8508749101
+381,385,"306",Concrete ,2m,1.2m,Concrete ,Good ,Pvc,8 inch ,,74.8353533577,12.8617957882
+382,386,847 flow towards  824,Concrete ,2m,1.2 m,Concrete ,Good,Pvc, 8 inch,"2",74.8470894261,12.8501521737
+383,387,848(S),Concrete ,2.11 m,1.2 m,Concrete ,Good,PVC, 8 inch ,"3",74.8471047405,12.8503381985
+384,388,"849",Concrete ,2.16 m,1.2 m,Concrete ,Good ,PVC, 8 inch ,"4",74.8471015900,12.8504964887
+385,389,"850",Concrete ,1.85 m,1.2 m,Concrete ,Good,PVC, 8 inch ,"2",74.8470941921,12.8506302424
+386,390,"851",Concrete ,1.86 m,1.2 m,Concrete ,Good ,PVC, 8 inch ,"3",74.8470913384,12.8508163513
+387,391,"852",Concrete ,1.92 m,1.2 m,Concrete ,Good ,PVC, 8 inch ,,74.8470901478,12.8509065068
+388,392,"853",Concrete ,2.7 m,1.2 m,Concrete ,Good ,PVC, 8 inch ,"3",74.8468229062,12.8509207983
+389,393,854(S),Concrete ,"0.58",1.2 m,Concrete ,Poor,PVC, 8 inch ,"1",74.8466664629,12.8512512294
+390,394,"855",Concrete ,1.35 m,1.2 m,Concrete ,Good,PVC, 8 inch ,"1",74.8466541433,12.8510185268
+391,395,"856",Concrete ,1.76 m,1.2 m,Concrete ,Good ,PVC, 8 inch ,"3",74.8466421982,12.8509391171
+392,396,"857",Concrete ,1.34 m,1.2 m,Concrete ,Good ,PVC, 8 inch ,"2",74.8465766944,12.8509420703
+393,397,"858",Concrete ,1.43 m,1.2 m,Concrete ,Good ,PVC, 8 inch,"5",74.8463505892,12.8509674963
+394,398,"859",Concrete ,2.39 m,1.2 m,Concrete ,Good ,PVC, 8 inch ,"6",74.8461078491,12.8509825024
+395,399,"860",Concrete ,1.87 m,1.2 m,Concrete ,Good ,PVC, 8 inch ,,74.8460134911,12.8510843322
+396,400,"861",Concrete ,4.5 m,1.2 m,Concrete ,Good ,PVC, 8 inch ,"1",74.8460111427,12.8512319205
+397,401,"901",Concrete ,"1.14","1.2",Concrete ,Good,RCC,12 inch,"1",74.8483247222,12.8588209374
+398,402,900(S),Concrete ,"1.04","1.2",Concrete ,Good,RCC,12 inch,,74.8485221933,12.8590806835
+399,403,"902",Concrete ,1.53 m,"1.2",Concrete ,Good,RCC,12 inch,,74.8481133565,12.8584247727
+400,404,"903",Concrete ,1.7m,"1.2",Concrete ,Good ,RCC,12 inch,"2",74.8480583676,12.8582280992
+401,405,"904",Concrete ,1.75 m,"1.2",Concrete ,Good ,RCC,12 inch,"2",74.8479966070,12.8580824658
+402,406,"905",Concrete ,1.63 m,"1.2",Concrete ,Good ,RCC,12 inch,"4",74.8478657674,12.8578008031
+403,407,"906",Concrete ,1.67 m,"1.2",Concrete ,Good ,RCC,12 inch,"2",74.8477819299,12.8576070738
+404,408,906( jn),Concrete ,1.83 m,"1.2",Concrete ,Good,RCC,12 inch,"2",74.8477127198,12.8574514352
+405,409,"907",Concrete ,1.88 m,"1.2",Concrete ,Moderate ,RCC,12 inch ,"1",74.8474467590,12.8569250350
+406,410,908(private),Concrete ,,"1.2",Concrete ,,RCC,12 inch,,74.8465471303,12.8558465909
+407,411,909(S),Concrete ,1.12 m,"1.2",Concrete ,Moderate ,RCC,12 inch,"2",74.8464779712,12.8559148203
+408,412,"910",Concrete ,0.9 m,"1.2",Concrete ,Poor,RCC,12 inch,,74.8465391564,12.8559555823
+409,413,"911",Concrete ,0.85 m,"1.2",Concrete ,Poor,RCC,12 inch,"3",74.8467039772,12.8560778134
+410,414,"912",Concrete ,1.12m,"1.2",Concrete ,Good ,RCC,12 inch,,74.8468660139,12.8562170676
+411,415,"913",Concrete ,1.31 m,"1.2",Concrete ,Good ,RCC,12 inch,"3",74.8470094280,12.8563675463
+412,416,"914",Concrete ,1.5 m,"1.2",Concrete ,Moderate ,RCC,12 inch,"6",74.8471792968,12.8565761875
+413,417,"915",Concrete ,1.67 m,"1.2",Concrete ,Moderate ,RCC,12 inch,"1",74.8472722941,12.8566966749
+414,418,916(jn),Concrete ,1.7 m,"1.2",Concrete ,Good,RCC,12 inch,,74.8474018390,12.8568188261
+415,419,917(S),Concrete ,1.26 m,"1.2",Concrete ,Good ,RCC ,12 inch,"3",74.8480675361,12.8571179035
+416,420,918 (S),Concrete ,1.2 m,"1.2",Concrete ,Good ,RCC,12 inch,"3",74.8482110485,12.8575503577
+417,421,918 ( jn),Concrete ,1.24 m,"1.2",Concrete ,Good ,RCC,12 inch,"7",74.8481802641,12.8573252984
+418,422,"919",Concrete ,"0.4","1.2",Concrete ,Good,PVC,8 inch,"4",74.8479597738,12.8573849511
+419,423,"920",Concrete ,,"1.2",Concrete ,Inaccessible ,PVC,8 inch,,74.8478295579,12.8574254527
+420,424,"921",Concrete ,0.87m,"1.2",Concrete ,Moderate ,RCC,8 inch,,74.8474531973,12.8565218999
+421,425,"922",Laterite,1.58 m,"1.2",Concrete ,Broken ,Stone ware ,6 inch,"1",74.8477740461,12.8567058325
+422,426,"923",Laterite,1.86 m,"1.2",Concrete ,Moderate ,Stone ware ,6 inch,,74.8478855818,12.8566406979
+423,427,"924 ",Later item ,2.08 m,"1.2",Concrete ,Moderate ,Stone ware ,6 inch,"1",74.8479546249,12.8565652194
+424,428,"925",Laterite ,1.55 m,"1.2",Concrete ,Good,Stone ware ,6 inch,"1",74.8480470746,12.8564496277
+425,429,926( jn),Laterite,1.93 m,"1.2",Concrete ,Moderate ,Stone ware ,6 inch,"2",74.8481155127,12.8563595257
+426,430,"927",Laterite,1.5 m,"1.2",Concrete ,Broken ,Stone ware ,6 inch,,74.8483431343,12.8560756574
+427,431,"928",Laterite,1.6 m,"1.2",Concrete ,Good ,Stone ware ,6 inch,"1",74.8484460490,12.8559523047
+428,432,"929",Laterite,1.66 m,"1.2",Concrete ,Goo,Stone ware ,6 inch,"2",74.8485769134,12.8557980747
+429,433,930(S),Concrete,1.66 m,"1.2",Concrete ,Good,Stone ware ,6 inch,"4",74.8488463998,12.8553750273
+430,434,"931",Concrete,1.27 m,"1.2",Concrete ,Good ,PVC,8  inch,"1",74.8482965554,12.8563661687
+431,435,932( S),Laterite ,2.38 m,"1.2",Metal,Good,PVC,8  inch,"1",74.8482490045,12.8567827197
+432,436,933 (S),Laterite ,1.98 m,"1.2",Metal,Moderate ,PVC,8  inch,"2",74.8479651108,12.8562594041
+433,437,"935",Concrete ,1.64 m,"1.2",Metal,Moderate ,PVC,8  inch,"1",74.8479099207,12.8565930700
+434,438,"934",Laterite ,2.28 m,"1.2",Metal,Good ,PVC,8  inch,,74.8479339292,12.8564791412
+435,439,"936",Concrete ,1.41 m,"1.2",Metal,Moderate ,PVC,8  inch,"1",74.8478185054,12.8564441047
+436,440,"937",Laterite ,1.64 m,"1.2",Metal,Moderate ,PVC,8  inch,"2",74.8477392341,12.8563235515
+437,441,"938",Concrete ,1.39 m,"1.2",Concrete ,Moderate ,PVC,8  inch,"2",74.8475872551,12.8561322625
+438,442,"939",Concrete ,1.35 m,"1.2",Concrete ,Moderate ,PVC,8  inch,"1",74.8477146027,12.8559619671
+439,443,940( jn),Concrete ,1.21m,"1.2",Concrete ,Moderate ,PVC,8  inch,,74.8478401435,12.8557932660
+440,444,"941",Concrete ,1.15 m,"1.2",Concrete ,Moderate ,PVC,8  inch,"3",74.8479215077,12.8556919195
+441,445,"942",Concrete ,1.37 m,"1.2",Concrete ,Good ,PVC,12 inch,"3",74.8480086408,12.8554792809
+442,446,"943",Concrete ,1.49 m,"1.2",Concrete ,Good ,PVC,12 inch,"2",74.8480453968,12.8554272978
+443,447,"944",Concrete ,1.25 m,"1.2",Concrete ,Good ,PVC,12 inch,"5",74.8481484467,12.8552960130
+444,448,"945",Concrete ,1.12m,"1.2",Concrete ,Moderate ,PVC,12 inch,"5",74.8483005606,12.8550971248
+445,449,"946",Concrete ,,"1.2",Metal,Inaccessible ,PVC,12 inch,,74.8483587064,12.8551011381
+446,450,947(S),Concrete ,,"1.2",Concrete ,Under the road,PVC,12 inch,,74.8485075955,12.8548096330
+447,451,"948",Concrete ,,"1.2",Concrete ,Inaccessible ,PVC,,,74.8477798020,12.8557038497
+448,452,"949",Concrete ,0.92 m,"1.2",Concrete ,Poor,PVC,,,74.8477183760,12.8556704743
+449,453,"950",Concrete ,1m,"1.2",Concrete ,Broken,PVC,8 inch,"1",74.8476527441,12.8556215270
+450,454,951( jn),Concrete ,1.35 m,"1.2",Concrete ,Good,PVC,8 inch,"2",74.8475838328,12.8555764917
+451,455,"952",Concrete ,1.12 m,"1.2",Concrete ,Good ,PVC,8 inch,"2",74.8474989295,12.8555264430
+452,456,"953",Concrete ,1.52m,"1.2",Concrete ,Good,PVC,8 inch,,74.8473481245,12.8554800879
+453,457,"954",Concrete ,1.87 m,"1.2",Concrete ,Good,PVC ,8 inch,"2",74.8472712638,12.8554983320
+454,458,"956",Concrete ,2.4 m,"1.2",Concrete ,10 inch,PVC,8 inch,"5",74.8470471569,12.8553759130
+455,459,"957",Concrete ,1.9 m ,"1.2",Concrete ,Good,PVC,8 inch,"2",74.8468561749,12.8551947709
+456,460,"958",Concrete ,,"1.2",Concrete ,Inaccessible ,PVC,8 inch,,74.8467715719,12.8551123832
+457,461,959(S),Concrete ,1.01m,"1.2",Concrete ,,PVC,8 inch,,74.8466942350,12.8550296670
+458,462,1000(S),Laterite  ,3.6 m,1.2 m,Concrete ,Good ,PVC,10 inch ,,74.8404056149,12.8540796963
+459,463,"1001",Laterite  ,2.42 m,1.2 m,Concrete ,Good,PVC,10 inch ,"3",74.8401488944,12.8539991985
+460,464,"1002",Laterite  ,1.98 m,1.2 m,Concrete ,Good ,PVC,10 inch ,"2",74.8399963671,12.8539743489
+461,465,"1003",Laterite  ,2m,1.2 m,Concrete ,Good,PVC,10 inch ,"3",74.8397826584,12.8539199133
+462,466,"1004( flow towards wet), jn",Laterite  ,2.31 m,1.2 m,Concrete ,Good ,PVC,10 inch ,"3",74.8395415793,12.8538892376
+463,467,"1005",Laterite  ,1.9 m,1.2 m,Concrete ,Good ,PVC,10 inch ,"1",74.8391022855,12.8538092380
+464,468,"1006",Laterite  ,1.94 m,1.2 m,Concrete ,Good ,PVC,10 inch ,"7",74.8389454707,12.8537787022
+465,469,"1007",Laterite  ,,1.2 m,Concrete ,Inaccessible ,PVC,10 inch ,,74.8385807030,12.8537208189
+466,470,1008(S),Laterite  ,2.15 m,1.2 m,Metal ,Poor,PVC,10 inch ,,74.8397861941,12.8548395245
+467,471,10O9,Laterite  ,,1.2 m,Metal,Good ,PVC,10 inch ,"3",74.8395742991,12.8547607268
+468,472,"1010",Laterite  ,1.95 m,1.2 m,Concrete ,Good ,PVC,10 inch ,"1",74.8395271780,12.8545641952
+469,473,"1011",Laterite  ,1.92 m,1.2 m,Concrete ,Good,PVC,10 inch ,"5",74.8394997811,12.8543735421
+470,474,1012 ( flow to jn),Laterite  ,2.08 m,1.2 m,Concrete ,Good,PVC,10 inch ,"2",74.8395053229,12.8541424036
+471,475,1015 (S),Laterite  ,2m,1.2 m,Concrete ,Good ,PVC,8inch ,"2",74.8401623092,12.8587054920
+472,476,"1016",Laterite  ,1.45 m,1.2 m,Concrete ,Good ,PVC,8 inch ,"3",74.8401864608,12.8585724410
+473,477,"1017",Laterite  ,1.5 m,1.2 m,Concrete ,Good ,PVC,8 inch ,"6",74.8402302259,12.8582685618
+474,478,"1018",Concrete ,1.58 m,1.2 m,Concrete ,Good,PVC,8 inch ,"4",74.8402585448,12.8580801329
+475,479,"1019",Concrete ,1.65 m,1.2 m,Concrete ,Good ,PVC,8 inch ,"4",74.8402724708,12.8579598017
+476,480,"1020",Concrete ,1.85 m,1.2 m,Concrete ,Good ,PVC,8 inch ,"4",74.8402913828,12.8578145886
+477,481,"1021",Concrete ,2.01m,1.2 m,Concrete ,Good,PVC,8 inch ,,74.8402996465,12.8575297979
+478,482,"1022",Concrete ,2.08 m,1.2 m,Concrete ,Good ,PVC,8 inch ,"5",74.8402830942,12.8573666674
+479,483,"1023",Concrete ,2.03 m,1.2 m,Concrete ,Good,PVC,8 inch ,"4",74.8402727087,12.8570932418
+480,484,"1024",Concrete ,1.93 m,1.2 m,Concrete ,Good ,PVC,8 inch ,"6",74.8402650212,12.8568971800
+481,485,"1025",Concrete ,1.67 m,1.2 m,Concrete ,Good ,PVC,8 inch ,"4",74.8402249154,12.8566361799
+482,486,"1026",Concrete ,,1.2 m,Concrete ,Inaccessible ,PVC,8 inch ,,74.8402055017,12.8564526087
+483,487,1027( flow to jn),Concrete ,1.52 m,1.2 m,Concrete ,Good,PVC,8 inch ,"3",74.8401996185,12.8563080653
+484,488,"1028",Concrete ,,1.2 m,Concrete ,Inaccessible ,PVC,8 inch ,,74.8406591844,12.8576843534
+485,489,"1029",Concrete ,,1.2 m,Metal,Inaccessible ,PVC,8 inch ,,74.8406999849,12.8575135025
+486,490,1030 ( flow to 1031,Laterite ,1.88 m,1.2 m,Concrete ,Good ,PVC,8 inch ,"3",74.8406385347,12.8574030495
+487,491,"1031",Laterite ,1.62 m,1.2 m,Concrete ,Good,PVC,8 inch ,"3",74.8406645946,12.8570139249
+488,492,"1032",Laterite ,2.07 m,1.2 m,Concrete ,Good,PVC,8 inch ,"3",74.8407227384,12.8568671120
+489,493,"1033",Laterite ,1.77 m,1.2 m,Concrete ,Good,PVC,8 inch ,"2",74.8406708469,12.8567829774
+490,494,"1034",Laterite ,2.2 m,1.2 m,Concrete ,Good,PVC,8 inch ,,74.8405731706,12.8566978768
+491,495,1035. ( flow to ,Laterite ,2.46 m,1.2 m,Concrete ,Good ,PVC,8 inch ,"2",74.8404470122,12.8565765236
+492,496,"1036  ",Laterite ,3.7 m,1.2 m,Concrete ,Good,PVC,8 inch ,"1",74.8403463952,12.8564169597
+493,497,"1037 ",Laterite ,,1.2 m,Concrete ,Inaccessible ,PVC,8 inch ,,74.8403679930,12.8562046891
+494,498,1038( flow to  open drain),Laterite ,,1.2 m,Concrete ,Inaccessible ,,,,74.8402962237,12.8557858685
+495,499,"1101",Concrete ,"1.22","1.2",Concrete ,Good ,PVC,8 inch,"2",74.8331185138,12.8787045601
+496,500,1102(jn),Concrete ,"1.26","1.2",Concrete ,Good ,PVC,12 inch,"2",74.8328273007,12.8787832427
+497,501,"1103",Concrete ,"1.2","1.2",Concrete ,Good ,PVC,8 inch,"2",74.8329408826,12.8790223719
+498,502,1104 (s),Concrete ,"1.35","1.2",Concrete ,Good ,PVC,8 inch,"3",74.8329467190,12.8791295813
+499,503,1105 (to 57),Concrete ,,"1.2",Concrete ,Inaccessible ,PVC,8 inch,,74.8325082555,12.8789392783
+500,504,1106(D),Concrete ,,"1.2",Concrete ,Inaccessible ,PVC,8 inch,,74.8326422311,12.8792827619
+501,505,1107 (s),Laterite,,"1.2",Concrete ,Good ,SW,8 inch,"2",74.8322925157,12.8794620317
+502,506,1108 (to 55),Laterite,"1.9","1.2",Concrete ,Good,SW,8 inch,"2",74.8322123746,12.8794925405
+503,507,"1109",Laterite,"0.84","1.2",Concrete ,Good ,PVC ,8 inch,,74.8346480450,12.8747924747
+504,508,1110(s) (to 1116),Laterite,"0.68","1.2",Concrete ,Good,PVC ,8 inch,"1",74.8348080165,12.8748005522
+505,509,1111 (from 1109),Laterite,"1.3","1.2",Concrete ,,PVC ,8 inch,,74.8346649267,12.8746567583
+506,510,"1112",Concrete ,"1.15","1.2",Concrete ,Moderate ,PVC ,8 inch,,74.8346725200,12.8745109469
+507,511,"1113",Laterite,"1.53","1.2",Concrete ,Good,SW,8 inch,"3",74.8346858613,12.8743013774
+508,512,1114 (to 515),Laterite,"1.76","1.2",Concrete ,Good ,SW,"12 ",,74.8346711729,12.8742573877
+509,513,"1116",Concrete ,"0.88","1.2",Concrete ,Good ,PVC ,"8","2",74.8349807722,12.8748301983
+510,514,1117 (s),Laterite,"0.91","1.2",Concrete ,Good ,PVC ,"8",,74.8352421238,12.8748538819
+511,515,"1118",Concrete ,"0.91","1.2",Concrete ,Good ,PVC ,"10","1",74.8349708327,12.8747000863
+512,516,"1119",Concrete ,"1.05","1.2",Concrete ,Good ,PVC ,"10",,74.8350417094,12.8745372769
+513,517,"1120",Concrete ,"1.13","1.2",Concrete ,Good,PVC ,"10",,74.8350166679,12.8744383337
+514,518,1121 (to 1114),Concrete ,,"1.2",Concrete ,Inaccessible ,PVC ,"10",,74.8350268796,12.8743395307
+515,519,1122(jn),Concrete ,"1.1","1.2",Concrete ,Good ,PVC ,"10","2",74.8353561930,12.8748892863
+516,520,1123 (to 1122),Concrete ,"0.94","1.2",Concrete ,Good,PVC ,"8","1",74.8353685752,12.8747419730
+517,521,1124 (s),Concrete ,"0.8","1.2",Concrete ,Good,PVC ,"8","2",74.8353711138,12.8745809432
+518,522,"1125",Concrete ,"1.3","1.2",Concrete ,Good,PVC ,"10",,74.8353953885,12.8749233614
+519,523,"1126",Concrete ,"1.48","1.2",Concrete ,Good ,PVC ,"10","3",74.8353422260,12.8750340537
+520,524,1127 (jn),Laterite ,"1.24","1.2",Concrete ,Good ,PVC ,"10","3",74.8353129818,12.8751660942
+521,525,"1128",Concrete ,"1.36","1.2",Concrete ,Good ,PVC ,"10","4",74.8351490183,12.8751313909
+522,526,"1129",Brick,"1.06","1.2",Concrete ,Good ,PVC ,"10","3",74.8349893492,12.8750876190
+523,527,"1130",Concrete ,"1.2","1.2",Concrete ,Good,PVC ,"10","1",74.8352747831,12.8752738284
+524,528,1131(to 1134),Concrete ,"1.25","1.2",Concrete ,Good,PVC ,"10","1",74.8352251985,12.8754499546
+525,529,1132 (to 1131),Concrete ,,"1.2",Concrete ,Inaccessible ,PVC ,"10",,74.8352988707,12.8754831210
+526,530,1133(to 1132),Laterite ,"0.88","1.2",Concrete ,Good,PVC ,"10","3",74.8354003209,12.8755349763
+527,531,1133 (s),Concrete ,"1.11","1.2",Concrete ,Good ,PVC ,"10","2",74.8353576203,12.8757578277
+528,532,"1134",Laterite ,"0.96","1.2",Concrete ,Good ,PVC ,"12","2",74.8352651493,12.8759241913
+529,533,"1135",Concrete ,"1.07","1.2",Concrete ,Moderate ,PVC ,"12",,74.8355186186,12.8760335112
+530,534,"1136",Concrete ,"1.2","1.2",Concrete ,Moderate ,PVC ,"12","1",74.8355964459,12.8760580801
+531,535,1137(e),Concrete ,"1.22","1.2",Concrete ,Good ,PVC ,"12",,74.8356671984,12.8761695189
+532,536,"1200",Concrete ,,"1.2",Concrete ,Inaccessible ,PVC ,,,74.8312677947,12.8797962865
+533,537,"1201",Concrete ,"1.41","1.2",Concrete ,Good ,SW,"12","2",74.8310577686,12.8797501916
+534,538,"1202",Concrete ,,"1.2",Concrete ,Inaccessible ,SW,"12",,74.8308817148,12.8796765191
+535,539,1203 (to 1202),Laterite,"1.62","1.2",Concrete ,Good ,SW,"12",,74.8306754492,12.8796022719
+536,540,"1204",Concrete ,"2.15","1.2",Concrete ,Good ,PVC ,"8","2",74.8304934666,12.8795890312
+537,541,"1205",Concrete ,"2.6","1.2",Concrete ,Good ,PVC ,"12","7",74.8302496469,12.8795481357
+538,542,"1206",Concrete ,"2.23","1.2",Concrete ,Good ,PVC ,"12",,74.8300823242,12.8794925672
+539,543,"1207",Concrete ,"2.24","1.2",Concrete ,Good ,PVC ,"12","5",74.8299616961,12.8794468500
+540,544,1208(to 1207),Laterite ,"1.48","1.2",Concrete ,Good ,PVC ,"12","3",74.8297509098,12.8793947099
+541,545,1209 (to 1207),Concrete ,"2.22","1.2",Concrete ,Good ,PVC ,"12","2",74.8296512187,12.8793549488
+542,546,"1265",Concrete ,"1.19","1.2",Concrete ,Good ,PVC ,"8","2",74.8297830420,12.8792345788
+543,547,"1210",Concrete ,"1.2","1.2",Concrete ,Good ,PVC ,"8","1",74.8298157563,12.8791000846
+544,548,"1212",Concrete ,"0.56","1.2",Concrete ,Good ,PVC ,"8","2",74.8297068183,12.8788452036
+545,549,1213(s),Concrete ,"0.67","1.2",Concrete ,Good ,PVC ,"8","2",74.8295566042,12.8788302155
+546,550,"1211",Concrete ,,"1.2",Concrete ,Inaccessible ,PVC ,"8",,74.8298398591,12.8789036145
+547,551,1214(jn),Concrete ,"1.98","1.2",Concrete ,Moderate ,PVC ,"12","5",74.8293227859,12.8792404853
+548,552,1215(s),Concrete ,,"1.2",Concrete ,Inaccessible ,PVC ,"12",,74.8291565256,12.8791621562
+549,553,1216(D),Concrete ,,"1.2",Concrete ,,PVC ,"12",,74.8289951613,12.8790092147
+550,554,1217 jn ,Concrete ,1.2m,"1.2",Concrete ,Good,Stone ware ,"12","3",74.8285389546,12.8784983281
+551,555,"1218",Concrete ,"1.61","1.2",Concrete ,Good ,PVC ,"8","2",74.8287531079,12.8782517341
+552,556,"1219",Concrete ,"1.93","1.2",Concrete ,Good ,PVC ,"8","2",74.8290192245,12.8778385801
+553,557,"1220",Concrete ,"2.08","1.2",Concrete ,Good ,PVC ,"8","1",74.8290750375,12.8777684995
+554,558,"1221",Concrete ,"1.81","1.2",Concrete ,Good ,PVC ,"8","2",74.8291705105,12.8776496853
+555,559,1222 (to 1221),Laterite ,"1.88","1.2",Concrete ,Good ,PVC ,"8","3",74.8292498227,12.8775653870
+556,560,"1223",Laterite ,"2.47","1.2",Concrete ,Moderate ,PVC ,"8",,74.8294213878,12.8772981609
+557,561,"1224",Concrete ,"2.39","1.2",Concrete ,Moderate ,PVC ,"8",,74.8294910047,12.8771400334
+558,562,"1225",Laterite,"2.65","1.2",Concrete ,Moderate ,PVC ,"8",,74.8295960366,12.8769426530
+559,563,"1226",Laterite,,"1.2",Concrete ,Inaccessible ,PVC ,"8",,74.8296629385,12.8767777094
+560,564,"1227",Laterite,"3","1.2",Concrete ,Moderate ,PVC ,"8","1",74.8297586870,12.8765919760
+561,565,"1228",Concrete ,"3.1","1.2",Metal,Good ,PVC ,"8","2",74.8298483033,12.8763586393
+562,566,"1229",Concrete ,,"1.2",Metal,Inaccessible ,PVC ,"8",,74.8298985249,12.8762496263
+563,567,"1230",Concrete ,"1.31","1.2",Metal,Poor,PVC ,"8",,74.8299793510,12.8760341503
+564,568,1231(to 1232),Concrete ,"1.4","1.2",Metal,Good ,PVC ,"8",,74.8300444332,12.8759076283
+565,569,"1232",Laterite,"1.63","1.2",Concrete ,Good ,PVC ,"12","2",74.8301655986,12.8755888157
+566,570,"1233",Concrete ,"1.93","1.2",Concrete ,Good ,PVC ,"12","8",74.8303909493,12.8748699644
+567,571,"1234",Laterite,"1.82","1.2",Concrete ,Good ,PVC ,"12","2",74.8304883383,12.8745241133
+568,572,"1235",Concrete ,"1.75","1.2",Concrete ,Good ,PVC ,"12","2",74.8305191303,12.8744224355
+569,573,"1236",Concrete ,"1.72","1.2",Concrete ,Good ,PVC ,"12","6",74.8305503907,12.8739855188
+570,574,1237(to 1239),Concrete ,,"1.2",Concrete ,Inaccessible ,PVC ,"12",,74.8306393511,12.8736519290
+571,575,1238(s),Laterite ,"1.37","1.2",Concrete ,Good,PVC ,"8","3",74.8307362922,12.8735447698
+572,576,"1239",Laterite ,"1.53","1.2",Concrete ,Good ,PVC ,"12","4",74.8309808313,12.8734454980
+573,577,"1240",Laterite ,"1.62","1.2",Concrete ,Good ,PVC ,"16","3",74.8310933804,12.8733464082
+574,578,"1241",Laterite ,,"1.2",Concrete ,Inaccessible ,PVC ,"16",,74.8312999124,12.8732153768
+575,579,"1242",Laterite ,"2.2","1.2",Concrete ,Good ,PVC ,"16","2",74.8316052027,12.8730556705
+576,580,1243 (to open drain),Laterite ,,"1.2",Concrete ,Inaccessible ,PVC ,"16",,74.8316443490,12.8729918963
+577,581,1244(to 1245),Laterite ,"1.28","1.2",Concrete ,Good ,PVC ,"16",,74.8318709296,12.8723859282
+578,582,1245 (jn) (to open drain),Laterite ,"1.99","1.2",Concrete ,Moderate ,PVC ,"12","1",74.8317816515,12.8719443308
+579,583,"1246",Laterite ,"1.29","1.2",Concrete ,Good ,PVC ,"12","5",74.8318480227,12.8715684644
+580,584,"1247",Concrete ,"1.73","1.2",Concrete ,Good ,PVC ,"12","4",74.8318633343,12.8712744670
+581,585,"1248",Concrete ,"1.71","1.2",Concrete ,Moderate ,PVC ,"12","3",74.8318923777,12.8711304376
+582,586,"1249",Concrete ,"2","1.2",Concrete ,Moderate ,PVC ,"12","5",74.8319404390,12.8708732978
+583,587,1250 (s) (to 1249),Concrete ,"0.66","1.2",Concrete ,,PVC ,"12",,74.8320295340,12.8705841487
+584,588,"1251",Concrete ,"2.47","1.2",Concrete ,Moderate ,PVC ,"12","4",74.8320119151,12.8704558542
+585,589,"1252",Concrete ,"2.16","1.2",Concrete ,Good ,PVC ,"12","3",74.8320709761,12.8702704904
+586,590,"1253",Concrete ,"2.35","1.2",Concrete ,Moderate ,PVC ,"12","3",74.8318013122,12.8702213327
+587,591,"1254",Concrete ,"2.35","1.2",Concrete ,Poor,PVC ,"12",,74.8315726877,12.8701956091
+588,592,"1255",Concrete ,,"1.2",Concrete ,Inaccessible ,PVC ,"12",,74.8312880223,12.8701704886
+589,593,"1256",Concrete ,"2.16","1.2",Concrete ,Poor,PVC ,"12","1",74.8310233332,12.8701135993
+590,594,"1257",Concrete ,"2.35","1.2",Concrete ,Moderate ,PVC ,"12","5",74.8311383687,12.8698008302
+591,595,"1258",Concrete ,,"1.2",Concrete ,Inaccessible ,PVC ,"12",,74.8311789990,12.8695676690
+592,596,"1259",Concrete ,"3.25","1.2",Concrete ,Poor,PVC ,"12",,74.8312330057,12.8694087327
+593,597,"1260",Concrete ,"3.7","1.2",Concrete ,Moderate ,PVC ,"12",,74.8313210667,12.8689344634
+594,598,"1261",Concrete ,,"1.2",Concrete ,Inaccessible ,PVC ,"12",,74.8313230922,12.8687072527
+595,599,1270(to 1244),Laterite,"1.7","1.2",Concrete ,Moderate ,PVC ,"8","2",74.8319428801,12.8727985172
+596,600,"1271",Laterite,,"1.2",Concrete ,Inaccessible ,PVC ,"8",,74.8321347867,12.8729814546
+597,601,"1272",Laterite,,"1.2",Concrete ,Inaccessible ,PVC ,"8",,74.8321142319,12.8730936448
+598,602,"1273",Laterite,"1.18","1.2",Concrete ,Good ,PVC ,"8","2",74.8321357650,12.8733464051
+599,603,"1274",Concrete ,"1.04","1.2",Concrete ,,PVC ,"12","2",74.8323393156,12.8733604641
+600,604,"1275",Concrete ,,"1.2",Concrete ,Inaccessible ,PVC ,"12",,74.8314984229,12.8728483827
+601,605,"1276",Laterite,"1.73","1.2",Concrete ,Good ,PVC ,"8","2",74.8314098932,12.8726782988
+602,606,"1277",Laterite,"1.78","1.2",Concrete ,Moderate ,PVC ,"8","1",74.8312919048,12.8724671412
+603,607,"1278",Laterite,,"1.2",Concrete ,Inaccessible ,PVC ,"8",,74.8311543263,12.8722912970
+604,608,"1279",Laterite,"1.4","1.2",Concrete ,Poor,PVC ,"8","2",74.8310160595,12.8721234826
+605,609,1280(jn)(to open drain),Laterite,"1.45","1.2",Concrete ,Moderate ,PVC ,"8","2",74.8308773192,12.8719572735
+606,610,"1281",Laterite,"1.4","1.2",Concrete ,Moderate ,PVC ,"8","3",74.8307648825,12.8717602123
+607,611,"1282",Laterite,"1.13","1.2",Concrete ,Good ,PVC ,"8","1",74.8306094223,12.8716218846
+608,612,1283(s),Laterite,"0.8","1.2",Concrete ,Good ,PVC ,"8",,74.8304941459,12.8714860469
+609,613,"1284",Concrete ,"1.48","1.2",Concrete ,Good ,PVC ,"8","3",74.8307712442,12.8720001391
+610,614,1285(jn),Laterite ,"1.44","1.2",Concrete ,Good ,PVC ,"8","1",74.8306746936,12.8720787137
+611,615,"1286",Laterite ,"1.18","1.2",Concrete ,Moderate ,PVC ,"8","2",74.8305264669,12.8719438731
+612,616,"1287",Laterite ,,"1.2",Concrete ,Inaccessible ,PVC ,"8",,74.8304076774,12.8718115397
+613,617,"1288",Concrete ,"0.86","1.2",Concrete ,Good ,PVC ,"8","1",74.8302551700,12.8721240351
+614,618,"1289",Concrete ,"0.9","1.2",Concrete ,Good ,PVC ,"8",,74.8303387951,12.8721891132
+615,619,1290(jn)(to 1285),Concrete ,"1.2","1.2",Concrete ,Moderate ,PVC ,"8","2",74.8305150532,12.8722861110
+616,620,1291(s)(to 1292),Concrete ,"0.76","1.2",Concrete ,Good ,PVC ,"8","1",74.8306999223,12.8723996219
+617,621,"1292",Concrete ,"1.41","1.2",Concrete ,Moderate ,PVC ,"8","4",74.8308346609,12.8724916378
+618,622,"1293",Concrete ,,"1.2",Concrete ,Inaccessible ,PVC ,"8",,74.8309778262,12.8726495175
+619,623,"1294",Concrete ,"1.44","1.2",Concrete ,Moderate ,PVC ,"8","2",74.8310507849,12.8727909273
+620,624,1295(s),Concrete ,"1.1","1.2",Concrete ,Moderate ,PVC ,"8",,74.8303698206,12.8726470385
+621,625,"1296",Concrete ,"1.38","1.2",Concrete ,Moderate ,PVC ,"8",,74.8304589505,12.8727218715
+622,626,"1297",Laterite ,"1.4","1.2",Concrete,Poor,PVC ,"8","4",74.8306439437,12.8728655634
+623,627,"1298",Concrete ,"1.3","1.2",Concrete,Poor,PVC ,"8",,74.8308116355,12.8729705673
+624,628,1299(e)(to Water body),Concrete ,"1.55","1.2",Concrete,,PVC ,"8",,74.8293692252,12.8728772748
+625,629,"1300",Concrete ,"1.31","1.2",Concrete,,PVC ,"8",,74.8294582498,12.8729330516
+626,630,1301(s),Concrete ,"1.03","1.2",Concrete,,PVC ,"8",,74.8295398141,12.8729823581
+627,631,"1302",Concrete ,"0.95","1.2",Concrete,Good,PVC ,"10","1",74.8297200511,12.8728634508
+628,632,1303(to water body),Concrete ,"1","1.2",Concrete,Moderate ,PVC ,"10",,74.8294903743,12.8727258984
+629,633,"1304",Concrete ,"0.99","1.2",Concrete,"3",PVC ,"10",,74.8299417438,12.8729411234
+630,634,"1305",Concrete ,"1.05","1.2",Concrete,Good ,PVC ,"10","2",74.8300841789,12.8729948696
+631,635,"1306",Concrete ,"1.04","1.2",Concrete,Good ,PVC ,"10","2",74.8302065827,12.8730529527
+632,636,"1307",Concrete ,,"1.2",Concrete,Inaccessible ,PVC ,"10",,74.8302902471,12.8730930030
+633,637,"1308",Concrete ,,"1.2",Concrete(need change),Inaccessible ,PVC ,"10",,74.8304067636,12.8731455670
+634,638,"1309",Concrete ,"1","1.2",Concrete,Good ,PVC ,"10","5",74.8304516196,12.8731741073
+635,639,1310 (to 1309),Concrete ,"1.19","1.2",Concrete,Moderate ,PVC ,"10","2",74.8304023006,12.8732952260
+636,640,1311 (s),Concrete ,"1.01","1.2",Concrete,Good ,PVC ,"10",,74.8303218073,12.8734822673
+637,641,1312(s),Concrete ,"0.85","1.2",Concrete,Good ,PVC ,"8",,74.8302424118,12.8736828791
+638,642,"1313",Concrete ,"0.94","1.2",Concrete,Poor,PVC ,"8",,74.8301528890,12.8736606680
+639,643,"1314",Concrete ,,"1.2",Concrete,Inaccessible ,PVC ,"8",,74.8300712691,12.8736272777
+640,644,"1315",Concrete ,"0.81","1.2",Concrete,Poor,PVC ,"8",,74.8299835911,12.8736107705
+641,645,"1316",Concrete ,"0.7","1.2",Concrete,Moderate ,PVC ,"8",,74.8298646786,12.8735659247
+642,646,1317(e),Concrete ,"0.76","1.2",Concrete,Moderate ,PVC ,"8",,74.8297794766,12.8735373183
+643,647,1320(to 1245),Concrete ,"1.24","1.2",Concrete ,Moderate ,PVC ,"8",,74.8318431510,12.8719562269
+644,648,"1321",Laterite ,"1.3","1.2",Concrete ,Moderate ,PVC ,"8","2",74.8321205225,12.8719937165
+645,649,"1322",Laterite ,,"1.2",Concrete ,Inaccessible ,PVC ,"8",,74.8324898987,12.8720876495
+646,650,1323(jn),Laterite ,"2.7","1.2",Concrete ,Good ,PVC ,"8","3",74.8328007687,12.8720473138
+647,651,"1324",Laterite ,"1.59","1.2",Concrete ,Good ,PVC ,"8","2",74.8330001814,12.8720180028
+648,652,1325 (to 1324),Concrete ,"1.54","1.2",Concrete ,Moderate ,PVC ,"8",,74.8331097812,12.8720280866
+649,653,1326(jn),Concrete ,"1.27","1.2",Concrete ,Good ,PVC ,"8","2",74.8333330023,12.8720812511
+650,654,"1327",Laterite ,"1.16","1.2",Concrete ,Good ,PVC ,"8","3",74.8328215919,12.8723594922
+651,655,"1328",Laterite ,"1.23","1.2",Concrete ,Good ,PVC ,"8","1",74.8327593998,12.8726006948
+652,656,1329(s),Concrete ,"1.45","1.2",Concrete ,Good ,PVC ,"10","7",74.8333020015,12.8723916926
+653,657,"1330",Concrete ,"1.5","1.2",Concrete ,Good ,PVC ,"10","2",74.8333074327,12.8722083177
+654,658,"1331",Concrete ,,"1.2",Concrete ,Inaccessible ,PVC ,"10",,74.8333184705,12.8721048199
+655,659,1332(s),Concrete ,"1.28","1.2",Concrete ,Good,PVC ,"10",,74.8336593165,12.8721310002
